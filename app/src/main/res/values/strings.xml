@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ドロン</string>
+    <string name="location_loading">位置情報を取得中...</string>
+    <string name="location_error">位置情報を取得できませんでした</string>
+</resources>

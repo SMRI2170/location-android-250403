@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- ドローンの本体 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M10,10h4v4h-4z" />
+
+    <!-- ドローンのプロペラ（上下左右） -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M5,5h2v2H5zM17,5h2v2h-2zM5,17h2v2H5zM17,17h2v2h-2z" />
+
+    <!-- GPSピン -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M12,2c-2.2,0 -4,1.8 -4,4 0,3 4,8 4,8s4,-5 4,-8c0,-2.2 -1.8,-4 -4,-4zM12,8c-1.1,0 -2,-0.9 -2,-2s0.9,-2 2,-2 2,0.9 2,2 -0.9,2 -2,2z" />
+</vector>
